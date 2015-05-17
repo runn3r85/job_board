@@ -1,0 +1,19 @@
+{
+  "name": "job_board",
+  "version": "0.1.0",
+  "homepage": "https://github.com/runn3r85/job_board",
+  "authors": [
+    "Brandon Barrette <brandon.barrette@gmail.com>"
+  ],
+  "description": "A job board for practicing React.js",
+  "main": "./bin/www",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libraries/",
+    "test",
+    "tests"
+  ]
+}
